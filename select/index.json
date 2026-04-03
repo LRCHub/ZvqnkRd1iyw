@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "愛・おぼえていますか",
+  "base_artist": "飯島真理",
+  "createdAt": "2026-04-03T10:05:52.001804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": true,
+      "path": "select/01_愛・おぼえていますか_ランカ・リー=中島愛.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/02_愛・おぼえていますか_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか~bless the little queen",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": true,
+      "path": "select/03_愛・おぼえていますか~bless_the_little_queen_ランカ・リー=中島愛.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか ～bless the little queen",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/04_愛・おぼえていますか_~bless_the_little_queen_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか ～bless the little queen～",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/05_愛・おぼえていますか_~bless_the_little_queen~_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ai, Oboete Imasu ka? [愛・おぼえていますか]",
+      "artist": "Ranka Lee=Megumi Nakajima",
+      "has_synced": true,
+      "path": "select/06_Ai,_Oboete_Imasu_ka__[愛・おぼえていますか]_Ranka_Lee=Megumi_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "Mari Iijima",
+      "has_synced": true,
+      "path": "select/07_愛・おぼえていますか_Mari_Iijima.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "飯島真理",
+      "has_synced": true,
+      "path": "select/08_愛・おぼえていますか_飯島真理.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "飯島真理",
+      "has_synced": true,
+      "path": "select/09_愛・おぼえていますか_飯島真理.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "飯島真理",
+      "has_synced": true,
+      "path": "select/10_愛・おぼえていますか_飯島真理.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか（40th Anniversary DeCulture Edition）",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/11_愛・おぼえていますか(40th_Anniversary_DeCulture_Edition)_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "Mari Iijima",
+      "has_synced": true,
+      "path": "select/12_愛・おぼえていますか_Mari_Iijima.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "Mari Iijima",
+      "has_synced": true,
+      "path": "select/13_愛・おぼえていますか_Mari_Iijima.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "Mari Iijima",
+      "has_synced": true,
+      "path": "select/14_愛・おぼえていますか_Mari_Iijima.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "Mari Iijima",
+      "has_synced": false,
+      "path": "select/15_愛・おぼえていますか_Mari_Iijima.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "ワルキューレ",
+      "has_synced": false,
+      "path": "select/16_愛・おぼえていますか_ワルキューレ.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "ワルキューレ/(美雲ΔJUNNA/フレイアΔ鈴木 みのり/カナメΔ安野 希世乃/レイナΔ東山 奈央/マキナΔ西田 望見)",
+      "has_synced": false,
+      "path": "select/17_愛・おぼえていますか_ワルキューレ_(美雲ΔJUNNA_フレイアΔ鈴木_みのり_カナメΔ安野_希世乃_レイナΔ東山_奈央_マキナΔ西田_望見).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "愛・おぼえていますか",
+      "artist": "飯島真理",
+      "has_synced": true,
+      "path": "select/18_愛・おぼえていますか_飯島真理.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛・おぼえていますか",
+      "artist": "飯島 真理",
+      "has_synced": false,
+      "path": "select/pl_01_愛・おぼえていますか_飯島_真理.txt"
+    }
+  ]
+}
